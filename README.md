@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Giovanni
 
+🌱 I am currently studying computer engineering at the Polytechnic of Turin
 
 
 
@@ -13,7 +14,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I am currently studying computer engineering at the Polytechnic of Turin
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
