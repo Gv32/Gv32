@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a FullStack Web Developer.
+I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/). If you want to read my blogs, click [here](https://avneesh0612.hashnode.dev/)
+
+* 📫 How to reach me?
+Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.app)
+
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gv32&theme=dracula)](https://github.com/avneesh0612)
+
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gv32&theme=dracula&layout=compact)](https://github.com/avneesh0612)
+
 <!--
 **Gv32/Gv32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
