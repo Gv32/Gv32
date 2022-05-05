@@ -3,9 +3,9 @@
 
 
 
-(https://github-readme-stats.vercel.app/api?username=Gv32&theme=dracula)](https://github.com/Gv32)
+[![Gv32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gv32&theme=dracula)](https://github.com/Gv32)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Gv32&theme=dracula&layout=compact)](https://github.com/Gv32)
+[![Gv32's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gv32&theme=dracula&layout=compact)](https://github.com/Gv32)
 
 <!--
 **Gv32/Gv32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
