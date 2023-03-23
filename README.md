@@ -2,8 +2,6 @@
 
 🌱 I am currently studying computer engineering at the Polytechnic of Turin
 
-<script src="https://tryhackme.com/badge/1766657"></script>
-
 [![Gv32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gv32&theme=dracula)](https://github.com/Gv32)
 
 [![Gv32's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gv32&theme=dracula&layout=compact)](https://github.com/Gv32)
