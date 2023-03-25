@@ -2,7 +2,7 @@
 
 🌱 I am currently studying computer engineering at the Polytechnic of Turin
 
-🚢 I am currently a trainee at MSC technology italia as a penetration tester
+🚢 I am currently a trainee at MSC Technology Italia as a penetration tester
 
 [![Gv32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gv32&theme=dracula)](https://github.com/Gv32)
 
