@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there 👋 I'm Giovanni<br><br>🌱 I am currently studying computer engineering at the Polytechnic of Turin<br>🚢 I am currently a trainee at MSC Technology Italia as a penetration tester
+Hi there 👋 I'm Giovanni  
+
+🎓 I'm currently pursuing a Master's degree in Cybersecurity at the Polytechnic of Turin  
+🚀 Passionate about cybersecurity, especially in the offensive security field  
+🏴‍☠️ I love playing CTFs and solving security challenges  
 
 
 ## 🌐 Socials:
